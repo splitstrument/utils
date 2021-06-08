@@ -1,5 +1,7 @@
 # Utilities
 
+![ZHAW Logo](zhaw_logo.png)
+
 Common code used in multiple different places. Included through local packages into rest of code. Installed by executing
 `pip install -e helper_utils` in this folder.
 
